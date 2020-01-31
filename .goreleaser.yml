@@ -22,4 +22,6 @@ changelog:
   filters:
     exclude:
     - '^docs:'
+    - '^misc:'
+    - '^ci:'
     - '^test:'
