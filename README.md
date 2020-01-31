@@ -1,0 +1,1 @@
+Just a little utility to output the release identified by a maven-metadata.xml local/remote file.
