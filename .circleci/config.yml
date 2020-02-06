@@ -13,7 +13,7 @@ workflows:
       - release:
           filters:
             tags:
-              only: /v\d+(\.\d+)*(-.*)*/
+              only: /\d+(\.\d+)*(-.*)*/
             branches:
               ignore: /.*/
 
